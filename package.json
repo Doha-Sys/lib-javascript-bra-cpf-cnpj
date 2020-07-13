@@ -1,0 +1,35 @@
+{
+  "name": "lib-javascript-bra-cpf-cnpj",
+  "version": "1.0.0",
+  "description": "Uma lib portando o código do repositório https://github.com/carvalhoviniciusluiz/cpf-cnpj-validator de typescript para javascript.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doha-Sys/lib-javascript-bra-cpf-cnpj.git"
+  },
+  "keywords": [
+    "javascript",
+    "cnpj",
+    "cpf",
+    "bra"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doha-Sys/lib-javascript-bra-cpf-cnpj/issues"
+  },
+  "homepage": "https://github.com/Doha-Sys/lib-javascript-bra-cpf-cnpj#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "jest": "^26.1.0"
+  }
+}
