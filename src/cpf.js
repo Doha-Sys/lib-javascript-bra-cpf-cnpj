@@ -80,5 +80,5 @@ module.exports = {
   strip,
   format,
   isValid,
-  generate,
+  generate
 }

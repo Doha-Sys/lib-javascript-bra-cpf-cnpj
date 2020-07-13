@@ -4,6 +4,7 @@
   "description": "Uma lib portando o código do repositório https://github.com/carvalhoviniciusluiz/cpf-cnpj-validator de typescript para javascript.",
   "main": "src/index.js",
   "scripts": {
+    "lint": "eslint src/**",
     "test": "jest"
   },
   "repository": {
